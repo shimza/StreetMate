@@ -8,7 +8,9 @@ Street Mate aims to fuse field forms, real time location tracking of users and b
 2. Homeless services can bring them food, clothing, offer them housing
 3. Location popularity will be mapped, and homless service providors can look at more long-term solutions for those areas.
 
-**The streets are sometimes safer than the refuges** and _Homelessness is a choice for some_ and `Long term solutions are needed` now.
+**The streets are sometimes safer than the refuges** 
+_Community can be found anywhere, and everyone needs it_ 
+`Long term solutions are needed`
 
 ### Moving forward
 
